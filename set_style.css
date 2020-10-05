@@ -1,0 +1,45 @@
+@charset "utf-8";
+/**CSS Document */
+
+Setlist {
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 5%;
+	text-align: center;
+	background-color:#541743;
+}
+
+Song{
+	width: 200px;
+	height: 200px;
+	display:inline-block;
+	margin: 10px;
+	font-size: 1rem;
+	background-color: #8B0C3C;
+	vertical-align: top;
+}
+Title{
+	font-size: 175%;
+	color: #FFFFFF;
+
+
+}
+Artists{
+	font-size: 130%;
+	display: block;
+	color: #F7BD00;
+
+}
+Genre{
+
+	display:block;
+	color: #F7BD00;
+
+
+}
+Year{
+	display:block;
+	font-size: 130%;
+	color: #F7BD00;
+}
+
